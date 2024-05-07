@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Suresh</h1>
-<h3 align="center">A passionate Data Scientist!</h3>
+<h3 align="center">A passionate ML Engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-002&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-002" /> </p>
 
