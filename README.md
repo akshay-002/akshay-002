@@ -1,24 +1,116 @@
 <h1 align="center">Hi 👋, I'm Akshay Suresh</h1>
-<h3 align="center">A passionate ML Engineer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-002&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-002" /> </p>
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 💬 Ask me about **Data**
-
-- 📫 How to reach me **akshay.suresh155@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshay suresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay suresh" height="30" width="40" /></a>
+<p align="center">
+  <b>AI/ML Engineer</b> building production-focused machine learning,
+  Generative AI, RAG, recommendation, and cloud-native systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  📍 Washington, D.C. &nbsp;•&nbsp;
+  🎓 M.S. Applied Machine Learning, University of Maryland
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-002&show_icons=true&locale=en&layout=compact" alt="akshay-002" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-002&show_icons=true&locale=en" alt="akshay-002" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-002&" alt="akshay-002" /></p>
+I'm an AI/ML Engineer with experience building and evaluating machine learning,
+deep learning, and Generative AI systems across search, recommendation,
+forecasting, and healthcare applications.
+
+My work focuses on taking ML ideas beyond experimentation — from data and
+modeling to retrieval, evaluation, optimization, APIs, and cloud deployment.
+
+- 🤖 Working with **LLMs, RAG, embeddings, vector search, and agentic AI**
+- 🧠 Building with **PyTorch, Transformers, Python, and SQL**
+- ☁️ Deploying ML systems with **AWS, Docker, Lambda, SageMaker, and Bedrock**
+- ⚡ Interested in **LLM inference optimization and production ML systems**
+- 🔎 Exploring reliable, scalable AI systems grounded in real-world data
+
+---
+
+### 🚀 Featured Project
+
+#### 🔬 Serverless Cloud-Native Research Assistant
+
+A production-oriented RAG platform for querying research papers using
+serverless AWS infrastructure.
+
+**Highlights**
+- Ingests research papers and generates embeddings using Amazon Bedrock
+- Stores vectors and metadata in Aurora PostgreSQL + pgvector
+- Semantic retrieval with source-grounded responses
+- Event-driven ingestion and processing with AWS Lambda
+- Conversational API through API Gateway
+- Infrastructure provisioned using AWS CDK
+- IAM, Secrets Manager, deduplication, structured logging, and error handling
+
+**Tech:** Python • AWS Lambda • Amazon Bedrock • Aurora PostgreSQL • pgvector • RAG • LLMs • AWS CDK
+
+[View Project →](YOUR_REPOSITORY_URL)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Data**
+
+`Python` `SQL` `PostgreSQL` `Pandas` `Linux` `Git`
+
+**Machine Learning**
+
+`PyTorch` `Transformers` `Recommendation Systems`
+`Embeddings` `Hyperparameter Tuning` `Model Evaluation`
+
+**Generative AI**
+
+`RAG` `LLMs` `Hugging Face` `Vector Search`
+`Prompt Engineering` `Tool Calling` `Agentic AI`
+
+**Cloud & MLOps**
+
+`AWS` `SageMaker` `S3` `Lambda` `ECS`
+`Bedrock` `Docker` `Cloud-Native Architecture`
+
+---
+
+### 💼 Experience
+
+**AI Engineer Intern — Jobiak**  
+LLM-based candidate/job search, RAG evaluation, inference optimization,
+PyTorch, SageMaker, and experiment tracking.
+
+**Machine Learning Engineer — GBS Systems**  
+Demand forecasting, recommendation systems, Transformer-based text analysis,
+data pipelines, and analytics.
+
+**Machine Learning Engineer Co-op — Techindia**  
+Deep-learning systems for cardiac arrhythmia classification and scalable
+ECG analysis.
+
+---
+
+### 🎓 Education
+
+**M.S. Applied Machine Learning**  
+University of Maryland, College Park
+
+**B.E. Computer Science**  
+Anna University
+
+---
+
+### 🏅 Certifications
+
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+- PyTorch Professional Certification
+- Stanford Machine Learning Specialization
+- Agentic AI Specialization — In Progress
+
+---
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/akshay-suresh-b63606217/) •
+[Email](mailto:akshay.mleng@gmail.com)
