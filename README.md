@@ -47,7 +47,7 @@ serverless AWS infrastructure.
 
 **Tech:** Python • AWS Lambda • Amazon Bedrock • Aurora PostgreSQL • pgvector • RAG • LLMs • AWS CDK
 
-[View Project →](YOUR_REPOSITORY_URL)
+[View Project →]([YOUR_REPOSITORY_URL](https://github.com/akshay-002/ServerlessRAG))
 
 ---
 
