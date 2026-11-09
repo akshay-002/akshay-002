@@ -1,47 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="660" height="156" viewBox="0 0 660 156">
-  <g transform="translate(3 2)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
-    <g transform="translate(46 4) scale(.8)" fill="none" stroke="#ffd274" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M7 12h26M12 7l-5 5 5 5m16 6 5 5-5 5M7 28h26"/><circle cx="20" cy="20" r="3"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">Transformers</text>
-  </g>
-  <g transform="translate(135 2)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
-    <g transform="translate(46 4) scale(.8)" fill="none" stroke="#ffcf64" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="20" r="12"/><path d="M15 17h1m8 0h1m-9 6q4 5 8 0M5 23l6 4m24-4-6 4"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">Hugging Face</text>
-  </g>
-  <g transform="translate(267 2)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
-    <g transform="translate(46 4) scale(.8)" fill="none" stroke="#6deaff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8h15v22H8zM12 14h7m-7 5h5"/><circle cx="26" cy="24" r="6"/><path d="m30 29 5 5"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">RAG</text>
-  </g>
-  <g transform="translate(399 2)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
-    <g transform="translate(46 4) scale(.8)" fill="none" stroke="#9bd2ff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="18" cy="10" rx="10" ry="4"/><path d="M8 10v17c0 2 4 4 10 4m-10-13c0 2 4 4 10 4m10-12v8m-6 14 10-11m-5 0h5v5"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">pgvector</text>
-  </g>
-  <g transform="translate(531 2)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="304" viewBox="0 0 660 304">
+<g transform='translate(3 2)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#ffd65a' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M11 18v-6q0-4 5-4h8q5 0 5 4v8H17q-5 0-5 5v3m17-6v6q0 4-5 4h-8q-5 0-5-4v-6m5-10h1m6 16h1'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>Python</text></g>
+<g transform='translate(135 2)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#ffbd78' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M7 28 15 15l6 8 10-12M7 28h26M9 10v18'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>scikit-learn</text></g>
+<g transform='translate(267 2)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#ff927e' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M24 8 12 20a9 9 0 1 0 15-1m2-6h.1'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>PyTorch</text></g>
+<g transform='translate(399 2)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
     <g transform="translate(46 4) scale(.8)" fill="none" stroke="#c4a6ff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l9-9a5 5 0 0 1 7 7L16 29a4 4 0 0 1-6-6l12-12m-4 18 4 4"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">MCP</text>
-  </g>
-  <g transform="translate(69 80)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">MCP</text></g>
+<g transform='translate(531 2)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#8cf5b3' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='m18 26-4 4a5 5 0 0 1-7-7l6-6a5 5 0 0 1 7 0m2-3 4-4a5 5 0 0 1 7 7l-6 6a5 5 0 0 1-7 0m-5 2 11-11'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>LangChain</text></g>
+<g transform='translate(3 78)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#6deaff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M10 10l10 13 10-13M20 23v9m-12-22h4m16 0h4M17 23h6m-6 9h6'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>LangGraph</text></g>
+<g transform='translate(135 78)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#ffb36d' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M6 26q13 10 27-1m-6 0 6-1-1 6M10 19l3-8 4 8m-6-3h5m5 3v-8l7 8v-8'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>AWS</text></g>
+<g transform='translate(267 78)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#72baff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M7 30 18 8h7l8 22H15l11-5-6-13'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>Azure</text></g>
+<g transform='translate(399 78)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#82a7ff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='m20 6 12 6 3 13-8 9H13l-8-9 3-13Zm0 7v14m-7-11 14 8m0-8-14 8'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>Kubernetes</text></g>
+<g transform='translate(531 78)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#73d1ff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M5 23h24l5-3q-2 12-15 12-10 0-14-9Zm5-3v-5h5v5m2 0v-5h5v5m-5-7V8h5v5m2 7v-5h5v5'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>Docker</text></g>
+<g transform='translate(3 154)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#e4edf6' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M13 31c-8-3-7-13-3-17l-1-6 7 4h8l7-4-1 6c4 4 5 14-3 17m-11 0v-4m8 4v-4m-8 2c-4 0-4-3-7-3'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>GitHub</text></g>
+<g transform='translate(135 154)'><rect x='1' y='1' width='124' height='71' rx='12' fill='#131d2b' stroke='#344455'/><g transform='translate(46 4) scale(.8)' fill='none' stroke='#9bd2ff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'><path d='M8 13q0-6 12-6t12 6v13q0 6-12 6T8 26Zm0 0q0 6 12 6t12-6M8 20q0 6 12 6t12-6'/></g><text x='62' y='56' text-anchor='middle' fill='#e4edf6' font-family='Segoe UI,Arial,sans-serif' font-size='15'>PostgreSQL</text></g>
+<g transform='translate(267 154)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+    <g transform="translate(46 4) scale(.8)" fill="none" stroke="#9bd2ff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="18" cy="10" rx="10" ry="4"/><path d="M8 10v17c0 2 4 4 10 4m-10-13c0 2 4 4 10 4m10-12v8m-6 14 10-11m-5 0h5v5"/></g>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">pgvector</text></g>
+<g transform='translate(399 154)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+    <g transform="translate(46 4) scale(.8)" fill="none" stroke="#ffd274" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M7 12h26M12 7l-5 5 5 5m16 6 5 5-5 5M7 28h26"/><circle cx="20" cy="20" r="3"/></g>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">Transformers</text></g>
+<g transform='translate(531 154)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+    <g transform="translate(46 4) scale(.8)" fill="none" stroke="#ffcf64" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="20" r="12"/><path d="M15 17h1m8 0h1m-9 6q4 5 8 0M5 23l6 4m24-4-6 4"/></g>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">Hugging Face</text></g>
+<g transform='translate(3 230)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+    <g transform="translate(46 4) scale(.8)" fill="none" stroke="#6deaff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8h15v22H8zM12 14h7m-7 5h5"/><circle cx="26" cy="24" r="6"/><path d="m30 29 5 5"/></g>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">RAG</text></g>
+<g transform='translate(135 230)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
     <g transform="translate(46 4) scale(.8)" fill="none" stroke="#ffa69e" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="11" r="4"/><circle cx="10" cy="28" r="4"/><circle cx="30" cy="28" r="4"/><path d="m18 15-6 9m10-9 6 9m-14 4h12"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">CrewAI</text>
-  </g>
-  <g transform="translate(201 80)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">CrewAI</text></g>
+<g transform='translate(267 230)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
     <g transform="translate(46 4) scale(.8)" fill="none" stroke="#ffb36d" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8h7l10 24h6M19 17l-8 15H6"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">AWS Lambda</text>
-  </g>
-  <g transform="translate(333 80)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">AWS Lambda</text></g>
+<g transform='translate(399 230)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
     <g transform="translate(46 4) scale(.8)" fill="none" stroke="#92e7b0" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="m20 7 13 7-13 7-13-7Zm-13 7v12l13 7 13-7V14M20 21v12m-7-16 7-4 7 4"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">Amazon Bedrock</text>
-  </g>
-  <g transform="translate(465 80)">
-    <rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">Amazon Bedrock</text></g>
+<g transform='translate(531 230)'><rect x="1" y="1" width="124" height="71" rx="12" fill="#131d2b" stroke="#344455"/>
     <g transform="translate(46 4) scale(.8)" fill="none" stroke="#a1ccff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="m14 11-8 9 8 9m12-18 8 9-8 9m-3-21-6 24"/></g>
-    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">AWS CDK</text>
-  </g>
+    <text x="62" y="56" text-anchor="middle" fill="#e4edf6" font-family="Segoe UI,Arial,sans-serif" font-size="15">AWS CDK</text></g>
 </svg>
