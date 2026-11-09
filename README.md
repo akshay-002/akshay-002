@@ -31,9 +31,9 @@ Telecom support assistant that combines local LLMs, hybrid retrieval, and MCP to
 Dual-head Vision Transformer for facial liveness detection from micro-expressions.<br><sub>Vision Transformer · Liveness detection</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/akshay-002/pytorch-engineering"><img width="430" src="./signal-4.svg" alt="DEEP LEARNING workflow. TRAIN, OPTIMIZE, INFER."></a><br>
-<strong><a href="https://github.com/akshay-002/pytorch-engineering">pytorch-engineering</a></strong><br>
-PyTorch experiments and implementation patterns for training, optimization, and inference.<br><sub>PyTorch · Training · Inference</sub>
+<a href="https://github.com/akshay-002/IMAGE-SEGMENTATION-WITH-U-NET"><img width="430" src="./signal-4.svg" alt="IMAGE SEGMENTATION workflow. IMAGE, U-NET, MASK."></a><br>
+<strong><a href="https://github.com/akshay-002/IMAGE-SEGMENTATION-WITH-U-NET">IMAGE-SEGMENTATION-WITH-U-NET</a></strong><br>
+Predicts pixel-level segmentation masks with U-Net. Includes training and prediction notebooks, sample inputs, and a saved model.<br><sub>U-Net · Jupyter · Segmentation</sub>
 </td>
 </tr>
 </table>

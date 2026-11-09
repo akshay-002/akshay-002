@@ -7,12 +7,12 @@
   <rect x="8" y="8" width="414" height="96" rx="7" fill="url(#grid)"/>
   <path d="M21 40H408" stroke="#354657"/>
   <g font-family="Consolas,monospace">
-    <text x="21" y="29" fill="#ffc993" font-size="16" letter-spacing="1">04 / DEEP LEARNING</text>
+    <text x="21" y="29" fill="#ffc993" font-size="16" letter-spacing="1">04 / IMAGE SEGMENTATION</text>
     <path d="M112 66H204M225 66H317" stroke="#ffc993" stroke-width="1.5" opacity=".65"/>
     <path d="m191 61 6 5-6 5m114-10 6 5-6 5" stroke="#ffc993" fill="none"/>
     <circle cx="112" cy="66" r="5" fill="#0e1620" stroke="#ffc993" stroke-width="2"/><circle cx="215" cy="66" r="5" fill="#0e1620" stroke="#ffc993" stroke-width="2"/><circle cx="327" cy="66" r="5" fill="#0e1620" stroke="#ffc993" stroke-width="2"/>
-    <text x="112" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">TRAIN</text>
-    <text x="215" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">OPTIMIZE</text>
-    <text x="327" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">INFER</text>
+    <text x="112" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">IMAGE</text>
+    <text x="215" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">U-NET</text>
+    <text x="327" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">MASK</text>
   </g>
 </svg>
