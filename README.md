@@ -4,7 +4,7 @@
   <a href="#selected-projects">Projects</a> ·
   <a href="#tech-core">Tech Core</a> ·
   <a href="https://www.linkedin.com/in/akshay-suresh-b63606217">LinkedIn</a> ·
-  <a href="mailto:akshay.mleng@gmail.com">Email</a>
+  <a href="mailto:akshay.mleng@gmail.com"><img src="./contact-email.svg" alt="Email" width="82" height="26"></a> · <a href="https://docs.google.com/document/d/1a6uYkvYoHkRnwRgQKdf_K2PvzvVsluM73sSKsWMqJck/edit?usp=sharing"><img src="./contact-resume.svg" alt="Résumé" width="94" height="26"></a>
 </p>
 
 I build AI systems that retrieve evidence, use tools, and run in the cloud. My current focus is making retrieval easier to evaluate and agent workflows easier to trace.
@@ -42,8 +42,9 @@ Predicts pixel-level segmentation masks with U-Net. Includes training and predic
 
 ## Tech Core
 
-![Python, PyTorch, PostgreSQL, Docker, AWS, and MCP](./profile-toolkit.svg)
-
-**Models** · PyTorch, Transformers, Hugging Face<br>
-**Retrieval and agents** · RAG, pgvector, MCP, CrewAI<br>
-**Deployment** · AWS Lambda, Amazon Bedrock, AWS CDK, Docker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,postgres,docker,aws&amp;theme=dark" alt="Python, PyTorch, PostgreSQL, Docker, AWS" width="290">
+</p>
+<p align="center">
+  <img src="./toolkit-icons.svg" alt="Transformers, Hugging Face, RAG, pgvector, MCP, CrewAI, AWS Lambda, Amazon Bedrock, and AWS CDK" width="660">
+</p>

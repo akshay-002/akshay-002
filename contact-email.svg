@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="26" viewBox="0 0 82 26">
+<rect x=".5" y=".5" width="81" height="25" rx="7" fill="#141e2b" stroke="#344455"/>
+<path d="M9 18V8l6 5 6-5v10" fill="none" stroke="#ff858e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="30" y="17.5" fill="#edf4fc" font-family="Segoe UI,Arial,sans-serif" font-size="13">Email</text>
+</svg>
