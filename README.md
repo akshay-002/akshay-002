@@ -1,116 +1,35 @@
-<h1 align="center">Hi 👋, I'm Akshay Suresh</h1>
+![Akshay Suresh. ~/engineer/profile $ whoami. AI/ML Engineer // GenAI // Cloud Systems.](./profile-hero.svg)
 
 <p align="center">
-  <b>AI/ML Engineer</b> building production-focused machine learning,
-  Generative AI, RAG, recommendation, and cloud-native systems.
+  <a href="https://www.linkedin.com/in/akshay-suresh-b63606217">LinkedIn</a> ·
+  <a href="mailto:akshay.mleng@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  📍 Washington, D.C. &nbsp;•&nbsp;
-  🎓 M.S. Applied Machine Learning, University of Maryland
-</p>
+## System Overview
 
----
+I build machine learning and LLM applications, from retrieval and evaluation to cloud deployment. My work includes candidate and job search at Jobiak, forecasting and recommendations at GBS Systems, and ECG analysis at Techindia. I earned an M.S. in Applied Machine Learning from the University of Maryland.
 
-### 👨‍💻 About Me
+## Current Focus
 
-I'm an AI/ML Engineer with experience building and evaluating machine learning,
-deep learning, and Generative AI systems across search, recommendation,
-forecasting, and healthcare applications.
+- **Retrieval** · Multi-source RAG and evaluation of source-grounded answers.
+- **Agents** · LLM workflows that use tools through the Model Context Protocol.
+- **Cloud** · Serverless ingestion and LLM inference optimization.
 
-My work focuses on taking ML ideas beyond experimentation — from data and
-modeling to retrieval, evaluation, optimization, APIs, and cloud deployment.
+## Selected Work
 
-- 🤖 Working with **LLMs, RAG, embeddings, vector search, and agentic AI**
-- 🧠 Building with **PyTorch, Transformers, Python, and SQL**
-- ☁️ Deploying ML systems with **AWS, Docker, Lambda, SageMaker, and Bedrock**
-- ⚡ Interested in **LLM inference optimization and production ML systems**
-- 🔎 Exploring reliable, scalable AI systems grounded in real-world data
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/akshay-002/ServerlessRAG"><img src="./project-arxiv.svg" width="440" alt="arXivHunter. Serverless research assistant for source-grounded answers from arXiv papers. Lambda  /  Bedrock  /  pgvector"></a><br><a href="https://github.com/akshay-002/ServerlessRAG">Serverless Research Assistant ↗</a></td>
+<td width="50%"><a href="https://github.com/akshay-002/AuthentiFace"><img src="./project-authentiface.svg" width="440" alt="AuthentiFace. Dual-head Vision Transformer for facial liveness detection from micro-expressions. ViT  /  Liveness detection"></a><br><a href="https://github.com/akshay-002/AuthentiFace">AuthentiFace repository ↗</a></td>
+</tr>
+<tr>
+<td width="50%"><img src="./project-multisource.svg" width="440" alt="Multi-Source RAG. Brings context from multiple sources into one question-answering workflow. RAG  /  Retrieval  /  LLMs"></td>
+<td width="50%"><img src="./project-mcp.svg" width="440" alt="MCP Market Research Agent. Connects an LLM to research tools through the Model Context Protocol. MCP  /  Tool calling  /  LLMs"></td>
+</tr>
+</table>
 
----
+## Tech Core
 
-### 🚀 Featured Project
+![Python, PyTorch, PostgreSQL, Docker, AWS, and MCP](./profile-toolkit.svg)
 
-#### 🔬 Serverless Cloud-Native Research Assistant
-
-A production-oriented RAG platform for querying research papers using
-serverless AWS infrastructure.
-
-**Highlights**
-- Ingests research papers and generates embeddings using Amazon Bedrock
-- Stores vectors and metadata in Aurora PostgreSQL + pgvector
-- Semantic retrieval with source-grounded responses
-- Event-driven ingestion and processing with AWS Lambda
-- Conversational API through API Gateway
-- Infrastructure provisioned using AWS CDK
-- IAM, Secrets Manager, deduplication, structured logging, and error handling
-
-**Tech:** Python • AWS Lambda • Amazon Bedrock • Aurora PostgreSQL • pgvector • RAG • LLMs • AWS CDK
-
-[View Project →]([YOUR_REPOSITORY_URL](https://github.com/akshay-002/ServerlessRAG))
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Data**
-
-`Python` `SQL` `PostgreSQL` `Pandas` `Linux` `Git`
-
-**Machine Learning**
-
-`PyTorch` `Transformers` `Recommendation Systems`
-`Embeddings` `Hyperparameter Tuning` `Model Evaluation`
-
-**Generative AI**
-
-`RAG` `LLMs` `Hugging Face` `Vector Search`
-`Prompt Engineering` `Tool Calling` `Agentic AI`
-
-**Cloud & MLOps**
-
-`AWS` `SageMaker` `S3` `Lambda` `ECS`
-`Bedrock` `Docker` `Cloud-Native Architecture`
-
----
-
-### 💼 Experience
-
-**AI Engineer Intern — Jobiak**  
-LLM-based candidate/job search, RAG evaluation, inference optimization,
-PyTorch, SageMaker, and experiment tracking.
-
-**Machine Learning Engineer — GBS Systems**  
-Demand forecasting, recommendation systems, Transformer-based text analysis,
-data pipelines, and analytics.
-
-**Machine Learning Engineer Co-op — Techindia**  
-Deep-learning systems for cardiac arrhythmia classification and scalable
-ECG analysis.
-
----
-
-### 🎓 Education
-
-**M.S. Applied Machine Learning**  
-University of Maryland, College Park
-
-**B.E. Computer Science**  
-Anna University
-
----
-
-### 🏅 Certifications
-
-- AWS Certified AI Practitioner
-- AWS Certified Cloud Practitioner
-- PyTorch Professional Certification
-- Stanford Machine Learning Specialization
-- Agentic AI Specialization — In Progress
-
----
-
-### 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/akshay-suresh-b63606217/) •
-[Email](mailto:akshay.mleng@gmail.com)
+Transformers · Hugging Face · SQL · pgvector · Amazon Bedrock · AWS Lambda · SageMaker · AWS CDK

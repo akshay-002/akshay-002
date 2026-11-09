@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="182" viewBox="0 0 440 182">
+<defs><linearGradient id="card" x2="1" y2="1"><stop stop-color="#13272a"/><stop offset="1" stop-color="#10151e"/></linearGradient></defs>
+<rect x="1" y="1" width="438" height="180" rx="12" fill="url(#card)" stroke="#334150"/>
+<path d="M2 23V65" stroke="#8ce7dc" stroke-width="3" stroke-linecap="round"/>
+<g font-family="Consolas,monospace">
+  <text x="20" y="30" font-size="14" fill="#8ce7dc" letter-spacing="1.2">AGENTIC AI</text>
+  <text x="419" y="30" font-size="14" fill="#8ce7dc" text-anchor="end">04</text>
+  <text x="20" y="157" font-size="15" fill="#8ce7dc" >MCP  /  Tool calling  /  LLMs</text>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif">
+  <text x="20" y="66" font-size="27" fill="#f2f7ff" font-weight="700">MCP Market Research Agent</text>
+  <text x="20" y="101" font-size="18" fill="#bdcedf" >Connects an LLM to research tools</text>
+  <text x="20" y="124" font-size="18" fill="#bdcedf" >through the Model Context Protocol.</text>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="273" viewBox="0 0 900 273">
+<defs>
+  <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#101a25"/><stop offset="1" stop-color="#10121c"/></linearGradient>
+  <linearGradient id="rail"><stop stop-color="#64e7f4"/><stop offset=".55" stop-color="#9af5ae"/><stop offset="1" stop-color="#c4a6ff"/></linearGradient>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#83a8c5" opacity=".13"/></pattern>
+</defs>
+<rect x="1" y="1" width="898" height="271" rx="17" fill="url(#panel)" stroke="#314254"/>
+<rect x="553" y="21" width="321" height="195" rx="8" fill="url(#grid)"/>
+<path d="M32 36H89" stroke="url(#rail)" stroke-width="3" stroke-linecap="round"/>
+<g font-family="Consolas,monospace">
+  <text x="103" y="41" font-size="15" fill="#a9bfd0" letter-spacing="2">ENGINEERING / PORTFOLIO</text>
+  <text x="32" y="96" font-size="22" fill="#9af5ae" >~/engineer/profile $ whoami</text>
+  <text x="34" y="200" font-size="21" fill="#d6e3f3" >AI/ML Engineer // GenAI // Cloud Systems</text>
+  <text x="34" y="249" font-size="15" fill="#64e7f4" >01 RETRIEVAL</text>
+  <text x="213" y="249" font-size="15" fill="#9af5ae" >02 AGENTS</text>
+  <text x="367" y="249" font-size="15" fill="#c4a6ff" >03 CLOUD SYSTEMS</text>
+</g>
+<text x="28" y="158" font-size="61" fill="#f2f7ff" font-family="Segoe UI,Arial,sans-serif" font-weight="700">Akshay Suresh</text>
+<g fill="none" stroke="url(#rail)" stroke-width="1.6">
+  <path d="M611 78L710 113L802 65M611 149L710 113L820 139M710 113L767 189M710 113L656 182"/>
+  <path d="M710 88L735 113L710 138L685 113Z" fill="#131f2a"/>
+</g>
+<circle cx="710" cy="113" r="6" fill="#9af5ae"/>
+<g fill="#121b26" stroke-width="2">
+  <circle cx="611" cy="78" r="5" stroke="#64e7f4"/><circle cx="611" cy="149" r="5" stroke="#64e7f4"/>
+  <circle cx="802" cy="65" r="5" stroke="#c4a6ff"/><circle cx="820" cy="139" r="5" stroke="#c4a6ff"/>
+  <circle cx="767" cy="189" r="5" stroke="#9af5ae"/><circle cx="656" cy="182" r="5" stroke="#9af5ae"/>
+</g>
+<path d="M32 222H868" stroke="#314254"/>
+</svg>
