@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="112" viewBox="0 0 430 112">
+  <defs>
+    <linearGradient id="panel"><stop stop-color="#152334"/><stop offset="1" stop-color="#0f1520"/></linearGradient>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#8fa8c3" opacity=".11"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="428" height="110" rx="10" fill="url(#panel)" stroke="#354657"/>
+  <rect x="8" y="8" width="414" height="96" rx="7" fill="url(#grid)"/>
+  <path d="M21 40H408" stroke="#354657"/>
+  <g font-family="Consolas,monospace">
+    <text x="21" y="29" fill="#68ebff" font-size="16" letter-spacing="1">01 / CLOUD RETRIEVAL</text>
+    <path d="M112 66H204M225 66H317" stroke="#68ebff" stroke-width="1.5" opacity=".65"/>
+    <path d="m191 61 6 5-6 5m114-10 6 5-6 5" stroke="#68ebff" fill="none"/>
+    <circle cx="112" cy="66" r="5" fill="#0e1620" stroke="#68ebff" stroke-width="2"/><circle cx="215" cy="66" r="5" fill="#0e1620" stroke="#68ebff" stroke-width="2"/><circle cx="327" cy="66" r="5" fill="#0e1620" stroke="#68ebff" stroke-width="2"/>
+    <text x="112" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">PAPERS</text>
+    <text x="215" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">EMBED</text>
+    <text x="327" y="92" fill="#d5e0ec" font-size="16" text-anchor="middle">RETRIEVE</text>
+  </g>
+</svg>

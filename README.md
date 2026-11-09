@@ -1,35 +1,49 @@
 ![Akshay Suresh. ~/engineer/profile $ whoami. AI/ML Engineer // GenAI // Cloud Systems.](./profile-hero.svg)
 
 <p align="center">
+  <a href="#selected-projects">Projects</a> ·
+  <a href="#tech-core">Tech Core</a> ·
   <a href="https://www.linkedin.com/in/akshay-suresh-b63606217">LinkedIn</a> ·
   <a href="mailto:akshay.mleng@gmail.com">Email</a>
 </p>
 
-## System Overview
+I build AI systems that retrieve evidence, use tools, and run in the cloud. My current focus is making retrieval easier to evaluate and agent workflows easier to trace.
 
-I build machine learning and LLM applications, from retrieval and evaluation to cloud deployment. My work includes candidate and job search at Jobiak, forecasting and recommendations at GBS Systems, and ECG analysis at Techindia. I earned an M.S. in Applied Machine Learning from the University of Maryland.
-
-## Current Focus
-
-- **Retrieval** · Multi-source RAG and evaluation of source-grounded answers.
-- **Agents** · LLM workflows that use tools through the Model Context Protocol.
-- **Cloud** · Serverless ingestion and LLM inference optimization.
-
-## Selected Work
+## Selected Projects
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/akshay-002/ServerlessRAG"><img src="./project-arxiv.svg" width="440" alt="arXivHunter. Serverless research assistant for source-grounded answers from arXiv papers. Lambda  /  Bedrock  /  pgvector"></a><br><a href="https://github.com/akshay-002/ServerlessRAG">Serverless Research Assistant ↗</a></td>
-<td width="50%"><a href="https://github.com/akshay-002/AuthentiFace"><img src="./project-authentiface.svg" width="440" alt="AuthentiFace. Dual-head Vision Transformer for facial liveness detection from micro-expressions. ViT  /  Liveness detection"></a><br><a href="https://github.com/akshay-002/AuthentiFace">AuthentiFace repository ↗</a></td>
+<td width="50%" valign="top">
+<a href="https://github.com/akshay-002/ServerlessRAG"><img width="430" src="./signal-1.svg" alt="CLOUD RETRIEVAL workflow. PAPERS, EMBED, RETRIEVE."></a><br>
+<strong><a href="https://github.com/akshay-002/ServerlessRAG">ServerlessRAG</a></strong><br>
+Serverless research assistant for asking questions about arXiv papers.<br><sub>AWS Lambda · Bedrock · pgvector</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/akshay-002/TT-T-Agentic-Support"><img width="430" src="./signal-2.svg" alt="AGENT SYSTEMS workflow. QUERY, ROUTE, TOOL."></a><br>
+<strong><a href="https://github.com/akshay-002/TT-T-Agentic-Support">TT-T-Agentic-Support</a></strong><br>
+Telecom support assistant that combines local LLMs, hybrid retrieval, and MCP tools.<br><sub>CrewAI · MCP · FastAPI</sub>
+</td>
 </tr>
 <tr>
-<td width="50%"><img src="./project-multisource.svg" width="440" alt="Multi-Source RAG. Brings context from multiple sources into one question-answering workflow. RAG  /  Retrieval  /  LLMs"></td>
-<td width="50%"><img src="./project-mcp.svg" width="440" alt="MCP Market Research Agent. Connects an LLM to research tools through the Model Context Protocol. MCP  /  Tool calling  /  LLMs"></td>
+<td width="50%" valign="top">
+<a href="https://github.com/akshay-002/AuthentiFace"><img width="430" src="./signal-3.svg" alt="COMPUTER VISION workflow. FRAME, ENCODE, CLASSIFY."></a><br>
+<strong><a href="https://github.com/akshay-002/AuthentiFace">AuthentiFace</a></strong><br>
+Dual-head Vision Transformer for facial liveness detection from micro-expressions.<br><sub>Vision Transformer · Liveness detection</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/akshay-002/pytorch-engineering"><img width="430" src="./signal-4.svg" alt="DEEP LEARNING workflow. TRAIN, OPTIMIZE, INFER."></a><br>
+<strong><a href="https://github.com/akshay-002/pytorch-engineering">pytorch-engineering</a></strong><br>
+PyTorch experiments and implementation patterns for training, optimization, and inference.<br><sub>PyTorch · Training · Inference</sub>
+</td>
 </tr>
 </table>
+
+[Browse all repositories ↗](https://github.com/akshay-002?tab=repositories)
 
 ## Tech Core
 
 ![Python, PyTorch, PostgreSQL, Docker, AWS, and MCP](./profile-toolkit.svg)
 
-Transformers · Hugging Face · SQL · pgvector · Amazon Bedrock · AWS Lambda · SageMaker · AWS CDK
+**Models** · PyTorch, Transformers, Hugging Face<br>
+**Retrieval and agents** · RAG, pgvector, MCP, CrewAI<br>
+**Deployment** · AWS Lambda, Amazon Bedrock, AWS CDK, Docker
