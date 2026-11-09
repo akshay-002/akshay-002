@@ -43,3 +43,5 @@ Predicts pixel-level segmentation masks with U-Net. Includes training and predic
 <p align="center">
   <img src="./toolkit-icons.svg" alt="Python, scikit-learn, PyTorch, MCP, LangChain, LangGraph, AWS, Azure, Kubernetes, Docker, GitHub, PostgreSQL, pgvector, Transformers, Hugging Face, RAG, CrewAI, AWS Lambda, Amazon Bedrock, AWS CDK" width="660">
 </p>
+
+![Good answers leave a trail. Trace: source, retrieval, answer.](./profile-footer.svg)
