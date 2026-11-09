@@ -1,9 +1,7 @@
 ![Akshay Suresh. ~/engineer/profile $ whoami. AI/ML Engineer // GenAI // Cloud Systems.](./profile-hero.svg)
 
 <p align="center">
-  <a href="#selected-projects">Projects</a> ·
-  <a href="#tech-core">Tech Core</a> ·
-  <a href="https://www.linkedin.com/in/akshay-suresh-b63606217">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/akshay-suresh-b63606217"><img src="./contact-linkedin.svg" alt="LinkedIn" width="106" height="26"></a> ·
   <a href="mailto:akshaysuresh.connect@gmail.com"><img src="./contact-email.svg" alt="Email" width="82" height="26"></a> · <a href="https://docs.google.com/document/d/1a6uYkvYoHkRnwRgQKdf_K2PvzvVsluM73sSKsWMqJck/edit?usp=sharing"><img src="./contact-resume.svg" alt="Résumé" width="94" height="26"></a>
 </p>
 
@@ -42,9 +40,24 @@ Predicts pixel-level segmentation masks with U-Net. Includes training and predic
 
 ## Tech Core
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,postgres,docker,aws&amp;theme=dark" alt="Python, PyTorch, PostgreSQL, Docker, AWS" width="290">
-</p>
-<p align="center">
-  <img src="./toolkit-icons.svg" alt="Transformers, Hugging Face, RAG, pgvector, MCP, CrewAI, AWS Lambda, Amazon Bedrock, and AWS CDK" width="660">
-</p>
+**Programming** · Python
+
+<img src="https://skillicons.dev/icons?i=py&amp;theme=dark" alt="Python" width="48">
+
+**Machine learning** · scikit-learn, PyTorch
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch&amp;theme=dark" alt="scikit-learn and PyTorch" width="98">
+
+**LLM and agent workflows** · MCP, LangChain, LangGraph
+
+<img src="./agent-toolkit.svg" alt="MCP, LangChain, and LangGraph" width="384">
+
+**Cloud and delivery** · AWS, Azure, Kubernetes, Docker, GitHub
+
+<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,github&amp;theme=dark" alt="AWS, Azure, Kubernetes, Docker, and GitHub" width="258">
+
+**Data and supporting tools** · PostgreSQL, pgvector, Transformers, Hugging Face, RAG, CrewAI, AWS Lambda, Amazon Bedrock, AWS CDK
+
+<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" width="48">
+
+<img src="./toolkit-icons.svg" alt="Transformers, Hugging Face, RAG, pgvector, MCP, CrewAI, AWS Lambda, Amazon Bedrock, and AWS CDK" width="660">
